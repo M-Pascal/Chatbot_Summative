@@ -86,4 +86,4 @@ Summative-chatbot/
 
 ## Done By:
 
-Pascal Mugisha - [@PascalMugisha](mailto:p.mugisha@alustudent.com)
+Owner - [@PascalMugisha](mailto:p.mugisha@alustudent.com)
